@@ -61,7 +61,7 @@ width: 400px;
 	position: fixed;
 }
 	
-#picture {
+.picture {
 	width: 50%;
 	height: 50%;
     position: relative;
