@@ -61,9 +61,12 @@ width: 400px;
 	position: fixed;
 }
 	
-.picture {
-	width: 20px;
-	height: 20px;
+#picture {
+	width: 50%;
+	height: 50%;
+    position: relative;
+    margin-left: 650px;
+    margin-top: 50px;
 }
 
 .italic {
